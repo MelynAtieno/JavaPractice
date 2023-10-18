@@ -9,6 +9,13 @@ public class Arrays {
         //initialize the first element
         myArray[0] = 100;
 
+        //initialize the rest of the elements
+        myArray[1] = 200;
+        myArray[2] = 300;
+        myArray[3] = 400;
+        myArray[4] = 500;
+        
+
         
     }
 }
