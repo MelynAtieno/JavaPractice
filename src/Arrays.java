@@ -17,6 +17,12 @@ public class Arrays {
         
         //print output
         System.out.println("The first element in the array is:" + myArray[0]);
+        System.out.println("The second element in the array is:" + myArray[1]);
+        System.out.println("The third element in the array is:" + myArray[2]);
+        System.out.println("The fourth element in the array is:" + myArray[3]);
+        System.out.println("The fifth element in the array is:" + myArray[4]);
+
+        System.out.println("That's it. Hurray!");
         
     }
 }
