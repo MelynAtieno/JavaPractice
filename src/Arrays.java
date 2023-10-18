@@ -5,5 +5,10 @@ public class Arrays {
 
         //allocates memory for 5 integers
         myArray = new int[5];
+
+        //initialize the first element
+        myArray[0] = 100;
+
+        
     }
 }
