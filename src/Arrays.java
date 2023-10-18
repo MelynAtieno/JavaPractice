@@ -26,6 +26,9 @@ public class Arrays {
 
         //Shortcut syntax to create and initialize an array
         //int[] myArray = {100,200,300,400,500};
+        /**the length of the array will be determined by 
+        the number of values between the braces, separated by commas**/
+        
         
     }
 }
