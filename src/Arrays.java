@@ -15,7 +15,8 @@ public class Arrays {
         myArray[3] = 400;
         myArray[4] = 500;
         
-
+        //print output
+        System.out.println("The first element in the array is:" + myArray[0]);
         
     }
 }
