@@ -23,6 +23,9 @@ public class Arrays {
         System.out.println("The fifth element in the array is:" + myArray[4]);
 
         System.out.println("That's it. Hurray!");
+
+        //Shortcut syntax to create and initialize an array
+        //int[] myArray = {100,200,300,400,500};
         
     }
 }
