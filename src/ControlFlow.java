@@ -7,7 +7,14 @@ public class ControlFlow {
             System.out.println(anArray[i]);
         }
 
+        //For Each Loop
+        int[] a = {60,70,80,90};
+
+        for (int i: a){
+            System.out.println(i);
+        }
+
         
     }
-    
+        
 }
