@@ -22,6 +22,13 @@ public class ControlFlow {
             i++;
         }
 
+        //do-while loop
+        int[] a2 = {600,700,800,900};
+        int l = 0;
+        do{System.out.println(a2[l]);
+            l++;
+        } while(l < a2.length);
+
         
     }
         
