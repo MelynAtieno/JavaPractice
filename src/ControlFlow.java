@@ -71,8 +71,19 @@ public class ControlFlow {
             case 3 -> fruit = "Banana";
             default -> fruit = "Invalid fruit";
             
-         }
+         };
          System.out.println(fruit);
+
+         //switch expression
+         int gender = 7;
+         String ask = switch(gender){
+            case 1 -> "Male";
+            case 2 -> "Female";
+            case 3 -> "Transgender";
+            case 4 -> "Non-binary";
+            default -> "Invalid gender";
+         };
+         System.out.println(ask);
 
         
     }
