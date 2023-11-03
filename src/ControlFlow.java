@@ -14,6 +14,14 @@ public class ControlFlow {
             System.out.println(i);
         }
 
+        //while loop
+        int[] a1 = {100,200,300,400,500};
+        int i = 0;
+        while(i < a1.length){
+            System.out.println(a1[i]);
+            i++;
+        }
+
         
     }
         
