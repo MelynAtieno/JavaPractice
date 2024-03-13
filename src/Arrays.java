@@ -1,10 +1,12 @@
 public class Arrays {
     public static void main(String[] args){
-        //declare an array of integers
-        int[] myArray;
+        //declare an array of integers. reference variable
+        int[] myArray; // - Compile time
 
         //allocates memory for 5 integers
-        myArray = new int[5];
+        myArray = // -creating the object in heap memory. Runtime.....Dynamic memory allocation
+                 new // -used to create an object
+                         int[5];
 
         //initialize the first element
         myArray[0] = 100;
