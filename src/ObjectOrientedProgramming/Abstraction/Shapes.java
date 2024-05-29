@@ -12,10 +12,10 @@ public class Shapes {
         this.base = 2;
         this.radius = 2;
         this.width = 2;
-        this.height = 2;
+        this.height = 3;
     }
 
-    public void findArea(){
+    void findArea(){
         System.out.println("Area : " + width * height);
     }
 }
