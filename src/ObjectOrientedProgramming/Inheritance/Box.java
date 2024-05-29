@@ -5,10 +5,18 @@ public class Box {
     int width;
     int height;
 
+    //Default constructor that takes no arguments
     public Box(){
         this.length = 1;
         this.width = 2;
         this.height = 3;
+    }
+
+    //Constructor that takes 3 arguments
+    public Box(int length, int width, int height){
+        this.length = length;
+        this.width = width;
+        this.height = height;
     }
 
 

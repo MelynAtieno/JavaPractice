@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Introduction;
 
 public class StoreData {
     public static void main(String args[]) {
